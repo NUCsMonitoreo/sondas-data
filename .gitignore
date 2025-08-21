@@ -1,2 +1,4 @@
 *.log
 auto-push.log
+
+auto-push.ps1
