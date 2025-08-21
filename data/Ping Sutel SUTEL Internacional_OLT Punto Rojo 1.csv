@@ -1,0 +1,5 @@
+device,timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+OLT Punto Rojo 1,2025-08-21T01:39:00.520508,84.17.40.24,SUTEL Internacional,72.06273078918457,True,Ping SUTEL Internacional
+OLT Punto Rojo 1,2025-08-21T01:40:00.677584,84.17.40.24,SUTEL Internacional,50.241947174072266,True,Ping SUTEL Internacional
+OLT Punto Rojo 1,2025-08-21T01:47:00.560004,84.17.40.24,SUTEL Internacional,48.754215240478516,True,Ping SUTEL Internacional
+OLT Punto Rojo 1,2025-08-21T01:48:00.624863,84.17.40.24,SUTEL Internacional,49.11041259765625,True,Ping SUTEL Internacional
