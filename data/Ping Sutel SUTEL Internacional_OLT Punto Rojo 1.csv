@@ -17,3 +17,7 @@ timestamp,target_ip,target_name,latency_ms,success,tipo_ping
 2025-08-21T00:56:58.104628,84.17.40.24,SUTEL Internacional,48.73323440551758,True,Ping SUTEL Internacional
 2025-08-21T00:57:58.166778,84.17.40.24,SUTEL Internacional,48.97141456604004,True,Ping SUTEL Internacional
 2025-08-21T00:58:58.220596,84.17.40.24,SUTEL Internacional,48.94518852233887,True,Ping SUTEL Internacional
+2025-08-21T00:59:58.272865,84.17.40.24,SUTEL Internacional,49.17573928833008,True,Ping SUTEL Internacional
+2025-08-21T01:00:58.333015,84.17.40.24,SUTEL Internacional,48.64931106567383,True,Ping SUTEL Internacional
+2025-08-21T01:01:58.386464,84.17.40.24,SUTEL Internacional,,False,Ping SUTEL Internacional
+2025-08-21T01:03:03.403821,84.17.40.24,SUTEL Internacional,48.851966857910156,True,Ping SUTEL Internacional
