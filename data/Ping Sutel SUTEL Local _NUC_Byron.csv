@@ -1,0 +1,2 @@
+timestamp,target_ip,target_name,latency_ms,success,tipo_ping
+2025-08-20T22:23:54.213621,138.59.18.180,SUTEL Local,0.0,True,Ping SUTEL Local Costa Rica
