@@ -1,2 +1,0 @@
-timestamp,target_ip,target_name,latency_ms,success,tipo_ping
-2025-08-20T22:18:22.193206,84.17.40.24,SUTEL Internacional,66.52021408081055,True,Ping SUTEL Internacional
